@@ -1,2 +1,2 @@
-alterando lorem ipsun dolor sit amet
-
+alterando alterado ipsun dolor sit amet
+merge 2
